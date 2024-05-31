@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Faiaz 👋
 
-<!--
-**Faiaz1997/Faiaz1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer with a Bachelor's degree in Computer Science. I have hands-on experience in developing web applications using PHP, Laravel, JavaScript, Bootstrap, and MySQL.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ReactJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, Bootstrap
+- **Databases**: MySQL
+- **Tools**: Git, XAMPP
+- **IDEs**: PhpStorm, VSCode
+
+## 🎓 Education
+- **B.Sc in Computer Science and Engineering** from American International University - Bangladesh
+
+## 📫 How to reach me
+- Email: faiazbenreza@gmail.com
+- LinkedIn: [faiaz-ben-reza](https://www.linkedin.com/in/faiaz-ben-reza/)
+
+## 🌟 Fun Fact
+I love exploring new technologies.
+
+
